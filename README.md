@@ -20,3 +20,12 @@ This repository contains git and github files.
   * mangoes
   * apples
   * bananas
+
+1. Vegetables
+   1. tomatoes
+   2. cucumber
+   3. chilli
+
+Table 1 | Table 2
+--------|--------
+Name|Roll No
